@@ -1,6 +1,7 @@
 #### Zabbix Module Quick Start
 
-This file is not a part of the official Zabbix Sources ...
+This file is not a part of the official Zabbix Sources.  See original
+[README](./README) for licence and pointers.
 
 Initial clone from GitHub for Speed, also it is a shallow one:
 
